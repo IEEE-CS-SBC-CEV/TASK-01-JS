@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Todos</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="wrapper">
+        <header><h1>Todo Maker</h1><button id="helpbtn">Help</button></header>
+        <div class="helpls">
+            <ul id="help">
+                <li>To Add a New Todo use : <i>add</i></li>
+                <li>To Delete a Todo use : <i>delete</i></li>
+                <li>To List the Current Todos: <i>list</i></li>
+                <li>To quit the App: <i>quit</i></li>
+            </ul>
+        </div>
+        <div class="in">
+            <label for="datain" id="inlabel" style="padding: 0px 10px;">Command</label>
+            <input type="text" id="datain">
+        </div>
+        <div class="todo">
+            <h3>Todos</h3>
+            <ul id="list"></ul>
+        </div>
+    </div>
+    <script src="./script.js"></script>
+</body>
+</html>

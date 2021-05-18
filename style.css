@@ -49,11 +49,11 @@ input{
     background-color: green;
     border-radius: 20px;
     font-weight: bold;
-    border-color: green 1px;
+    border-color: green 1px solid;
 }
 button{
     background-color: red;
     border-radius: 20px;
     font-weight: bold;
-    border-color: red 1px;
+    border-color: red 1px solid;
 }

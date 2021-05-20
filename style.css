@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(151, 177, 177);
+    margin: 0% auto;
+    display: block;
+}
+h1{
+    font-size: 40px;
+    color: darkcyan;
+    font-family: monospace;
+    margin: 10px;
+}
+h3{
+    font-size: 20px;
+    font-family: monospace;
+    margin: 20px;
+    color: darkred;
+}
+.list{
+    margin-left: 35px;
+    margin-right: 768px;
+    margin-top: 20px;
+    display: block;
+    background-color: beige;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+}
+

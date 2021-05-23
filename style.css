@@ -1,0 +1,38 @@
+.header{
+    height: 50px;
+    background: rgb(0, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(90, 87, 87);
+    font-style: italic;
+    margin-top: -22px;
+    padding-left: 10px;
+
+    width: auto;
+}
+
+body{
+    margin: 0px;
+    background:gray ;
+    color: black;
+}
+
+.body{
+    padding-left: 10px;
+    border-radius: 1cm;
+    border: black solid 0.5cm;
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 10px;
+    width: fit-content;
+    height: fit-content;
+}
+
+button{
+    border: solid 0.2cm black;
+    background: black;
+    color: gray;
+    font-style: italic;
+    font-weight: bold;
+    margin-left: 120px;
+    margin-top: 20px;
+}

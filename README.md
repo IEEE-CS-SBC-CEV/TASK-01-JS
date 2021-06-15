@@ -4,7 +4,7 @@
 
 ### 2.Create a branch in your own name, Add all the required HTML, CSS and JS files (Eg: index.html, style.css, script.js):flags:
 
-### 3.push that branch and make a pull request:trophy:
+### 3.push that branch and make a pull request (make sure base branch also same as your name):trophy:
 
 ### 4.You can design your html in your own way using CSS:heavy_check_mark:
 
